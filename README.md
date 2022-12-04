@@ -1,5 +1,7 @@
 # Machine-Learning_CNN
 
+School Assignment 
+
 [Python Problem]
 Given a dataset that consists of car images from five different brands (BMW, Bugatti,
 Lamborghini, McLaren, and Volkswagen), your task is to design a neural network using
